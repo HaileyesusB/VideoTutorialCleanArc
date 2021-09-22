@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\bin\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.deps.json
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\bin\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.dll
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\bin\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.pdb
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\obj\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\obj\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\obj\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\obj\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\obj\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\obj\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.dll
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\obj\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.pdb
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\bin\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.runtimeconfig.json
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\bin\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.runtimeconfig.dev.json
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\obj\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.genruntimeconfig.cache
