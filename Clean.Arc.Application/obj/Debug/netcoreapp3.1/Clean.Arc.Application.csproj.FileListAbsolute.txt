@@ -8,3 +8,6 @@ C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\n
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp3.1\Clean.Arc.Application.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp3.1\Clean.Arc.Application.dll
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp3.1\Clean.Arc.Application.pdb
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Application\bin\Debug\netcoreapp3.1\Clean.Arc.Domain.dll
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Application\bin\Debug\netcoreapp3.1\Clean.Arc.Domain.pdb
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp3.1\Clean.Arc.Application.csproj.CopyComplete
