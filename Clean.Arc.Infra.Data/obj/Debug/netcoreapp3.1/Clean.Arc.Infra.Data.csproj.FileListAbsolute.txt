@@ -11,3 +11,6 @@ C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\obj\Debug\ne
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\bin\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.runtimeconfig.json
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\bin\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.runtimeconfig.dev.json
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\obj\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.genruntimeconfig.cache
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\bin\Debug\netcoreapp3.1\Clean.Arc.Domain.dll
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\bin\Debug\netcoreapp3.1\Clean.Arc.Domain.pdb
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Infra.Data\obj\Debug\netcoreapp3.1\Clean.Arc.Infra.Data.csproj.CopyComplete
