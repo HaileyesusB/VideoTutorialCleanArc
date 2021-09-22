@@ -7,7 +7,7 @@ namespace Clean.Arc.Application.Interfaces
 {
   public interface ICourseService
     {
-        IEnumerable<CourseViewModel> GetCourses();
+        CourseViewModel GetCourses();
 
     }
 }
