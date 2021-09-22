@@ -189,3 +189,4 @@ C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Solution.UI.MVC\obj\Deb
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Solution.UI.MVC\obj\Debug\netcoreapp3.1\Clean.Arc.Solution.UI.MVC.dll
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Solution.UI.MVC\obj\Debug\netcoreapp3.1\Clean.Arc.Solution.UI.MVC.pdb
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Solution.UI.MVC\obj\Debug\netcoreapp3.1\Clean.Arc.Solution.UI.MVC.genruntimeconfig.cache
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Solution.UI.MVC\bin\Debug\netcoreapp3.1\Humanizer.dll
