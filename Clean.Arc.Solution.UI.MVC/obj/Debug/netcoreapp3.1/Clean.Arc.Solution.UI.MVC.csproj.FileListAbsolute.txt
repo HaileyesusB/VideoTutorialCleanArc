@@ -194,3 +194,4 @@ C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Solution.UI.MVC\bin\Deb
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Solution.UI.MVC\bin\Debug\netcoreapp3.1\Clean.Arc.Infra.IOC.dll
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Solution.UI.MVC\bin\Debug\netcoreapp3.1\Clean.Arc.Infra.IOC.pdb
 C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Solution.UI.MVC\bin\Debug\netcoreapp3.1\Clean.Arc.Application.pdb
+C:\Users\hp\source\repos\VideoTutorialCleanArc\Clean.Arc.Solution.UI.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
