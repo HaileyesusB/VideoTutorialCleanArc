@@ -298,7 +298,7 @@
           "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/5.0.1": {
+      "Microsoft.Extensions.DependencyInjection/5.0.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
@@ -1546,6 +1546,19 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Clean.Arc.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Clean.Arc.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Clean.Arc.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clean.Arc.Application.dll": {}
+        }
+      },
       "Clean.Arc.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -1569,6 +1582,21 @@
         },
         "runtime": {
           "bin/placeholder/Clean.Arc.Infra.Data.dll": {}
+        }
+      },
+      "Clean.Arc.Infra.IOC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Clean.Arc.Application": "1.0.0",
+          "Clean.Arc.Infra.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "5.0.2"
+        },
+        "compile": {
+          "bin/placeholder/Clean.Arc.Infra.IOC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clean.Arc.Infra.IOC.dll": {}
         }
       }
     }
@@ -2069,10 +2097,10 @@
         "version.txt"
       ]
     },
-    "Microsoft.Extensions.DependencyInjection/5.0.1": {
-      "sha512": "//mDNrYeiJ0eh/awFhDFJQzkRVra/njU5Y4fyK7X29g5HScrzbUkKOKlyTtygthcGFt4zNC8G5CFCjb/oizomA==",
+    "Microsoft.Extensions.DependencyInjection/5.0.2": {
+      "sha512": "xzFW00AZEvOXM1OX+0+AYH5op/Hf3u//e6wszBd/rK72sypD+jx5CtsHxM4BVuFBEs8SajfO4QzSJtrQaHDr4A==",
       "type": "package",
-      "path": "microsoft.extensions.dependencyinjection/5.0.1",
+      "path": "microsoft.extensions.dependencyinjection/5.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2087,7 +2115,7 @@
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.xml",
-        "microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -5795,6 +5823,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Clean.Arc.Application/1.0.0": {
+      "type": "project",
+      "path": "../Clean.Arc.Application/Clean.Arc.Application.csproj",
+      "msbuildProject": "../Clean.Arc.Application/Clean.Arc.Application.csproj"
+    },
     "Clean.Arc.Domain/1.0.0": {
       "type": "project",
       "path": "../Clean.Arc.Domain/Clean.Arc.Domain.csproj",
@@ -5804,11 +5837,17 @@
       "type": "project",
       "path": "../Clean.Arc.Infra.Data/Clean.Arc.Infra.Data.csproj",
       "msbuildProject": "../Clean.Arc.Infra.Data/Clean.Arc.Infra.Data.csproj"
+    },
+    "Clean.Arc.Infra.IOC/1.0.0": {
+      "type": "project",
+      "path": "../Clean.Arc.Infra.IOC/Clean.Arc.Infra.IOC.csproj",
+      "msbuildProject": "../Clean.Arc.Infra.IOC/Clean.Arc.Infra.IOC.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Clean.Arc.Infra.Data >= 1.0.0",
+      "Clean.Arc.Infra.IOC >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.1.17",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.7",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.17",
@@ -5849,6 +5888,9 @@
           "projectReferences": {
             "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\Clean.Arc.Infra.Data.csproj": {
               "projectPath": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\Clean.Arc.Infra.Data.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.IOC\\Clean.Arc.Infra.IOC.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.IOC\\Clean.Arc.Infra.IOC.csproj"
             }
           }
         }

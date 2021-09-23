@@ -1,4 +1,5 @@
 using Clean.Arc.Infra.Data.Context;
+using Clean.Arc.Infra.IOC;
 using Clean.Arc.Solution.UI.MVC.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -35,6 +36,8 @@ namespace Clean.Arc.Solution.UI.MVC
                 options.UseSqlServer(
                   Configuration.GetConnectionString("UniversityDBConnection"));
              });
+
+            RegisterService(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -66,6 +69,13 @@ namespace Clean.Arc.Solution.UI.MVC
                     pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
+
+            
+        }
+        private static void RegisterService(IServiceCollection services) {
+            DependencyContainer.RegisterServices(services);
+
+
         }
     }
 }

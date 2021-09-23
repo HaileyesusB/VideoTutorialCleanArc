@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XiUn1n76sdXN6qAe8ASiDFX+FKRY4U6fpRA8/zW6jGpCCTcrb3CRnA54lzmPvctad7hAdDzjSHmD5EEyYtDTmA==",
+  "dgSpecHash": "4aYYF+EEnA9ZnG0Uxj/FuFuB67cglNbljL+3fVajthgzbaLPwICy46v6OdgQG+p6N6s8Jy9XVThaDgPhGVZEbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Solution.UI.MVC\\Clean.Arc.Solution.UI.MVC.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,7 @@
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.17\\microsoft.extensions.fileproviders.abstractions.3.1.17.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.17\\microsoft.extensions.fileproviders.embedded.3.1.17.nupkg.sha512",
