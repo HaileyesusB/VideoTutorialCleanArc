@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JYz/N8AlWKXLrIkMLmJINZrTJ0W3PAHvB9MIfX7q+pN7oiQfVcVjqFJLuJgqWsuyS4qoaFbcOhTdHUaTtp0HuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.IOC\\Clean.Arc.Infra.IOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
