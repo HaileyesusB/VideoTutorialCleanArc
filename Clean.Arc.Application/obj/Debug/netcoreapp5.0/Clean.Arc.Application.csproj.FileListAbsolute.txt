@@ -1,0 +1,15 @@
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\bin\Debug\netcoreapp5.0\Clean.Arc.Application.deps.json
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\bin\Debug\netcoreapp5.0\Clean.Arc.Application.dll
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\bin\Debug\netcoreapp5.0\ref\Clean.Arc.Application.dll
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\bin\Debug\netcoreapp5.0\Clean.Arc.Application.pdb
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\bin\Debug\netcoreapp5.0\Clean.Arc.Domain.dll
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\bin\Debug\netcoreapp5.0\Clean.Arc.Domain.pdb
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp5.0\Clean.Arc.Application.csproj.AssemblyReference.cache
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp5.0\Clean.Arc.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp5.0\Clean.Arc.Application.AssemblyInfoInputs.cache
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp5.0\Clean.Arc.Application.AssemblyInfo.cs
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp5.0\Clean.Arc.Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp5.0\Clean.Arc.Application.csproj.CopyComplete
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp5.0\Clean.Arc.Application.dll
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp5.0\ref\Clean.Arc.Application.dll
+C:\Users\hp\Source\Repos\VideoTutorialCleanArc\Clean.Arc.Application\obj\Debug\netcoreapp5.0\Clean.Arc.Application.pdb
