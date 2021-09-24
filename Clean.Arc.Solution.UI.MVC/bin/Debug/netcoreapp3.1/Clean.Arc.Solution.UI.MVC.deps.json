@@ -33,7 +33,7 @@
         "dependencies": {
           "Clean.Arc.Infra.Data": "1.0.0",
           "Clean.Arc.Infra.IOC": "1.0.0",
-          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.17",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.18",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.7",
           "Microsoft.AspNetCore.Identity.UI": "3.1.17",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.7",
@@ -343,14 +343,14 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/3.1.17": {
+      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/3.1.18": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Relational": "5.0.7"
         },
         "runtime": {
           "lib/netcoreapp3.1/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
-            "assemblyVersion": "3.1.17.0",
-            "fileVersion": "3.100.1721.31808"
+            "assemblyVersion": "3.1.18.0",
+            "fileVersion": "3.100.1821.36504"
           }
         },
         "compile": {
@@ -3109,12 +3109,12 @@
       "path": "microsoft.aspnetcore.cryptography.keyderivation/5.0.7",
       "hashPath": "microsoft.aspnetcore.cryptography.keyderivation.5.0.7.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/3.1.17": {
+    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/3.1.18": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-FQhp0VATHnlc7eIzCha/qMzFDv5bTU//fflWcc4EAaWbFUgAaXuQLvJ5GPXrcKU6VUfdZk73TjljLpXvqZp0Ug==",
-      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/3.1.17",
-      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.17.nupkg.sha512"
+      "sha512": "sha512-jbcjkU7Waq30aBuwNani9E/h4LyodDvbHFLHLndt82Qzifrr25z7/r2zIwpwop1tWaqMwdcloAUSxEcs44DBuA==",
+      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/3.1.18",
+      "hashPath": "microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.18.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Identity.EntityFrameworkCore/5.0.7": {
       "type": "package",

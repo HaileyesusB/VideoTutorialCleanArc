@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\Clean.Arc.Infra.Data.csproj": {}
+    "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\Clean.Arc.Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\Clean.Arc.Domain.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\Clean.Arc.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\Clean.Arc.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\Clean.Arc.Domain.csproj",
         "projectName": "Clean.Arc.Domain",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\Clean.Arc.Domain.csproj",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\Clean.Arc.Domain.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\Clean.Arc.Infra.Data.csproj": {
+    "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\Clean.Arc.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\Clean.Arc.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\Clean.Arc.Infra.Data.csproj",
         "projectName": "Clean.Arc.Infra.Data",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\Clean.Arc.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\Clean.Arc.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\Clean.Arc.Domain.csproj": {
-                "projectPath": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\Clean.Arc.Domain.csproj"
+              "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\Clean.Arc.Domain.csproj": {
+                "projectPath": "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Domain\\Clean.Arc.Domain.csproj"
               }
             }
           }

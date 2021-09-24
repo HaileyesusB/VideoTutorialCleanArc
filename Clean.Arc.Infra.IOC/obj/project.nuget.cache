@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XCrbqXYSAKTLcVB+Kt8QYsf80xdmlZG9FFcSxRg9V6cJ3RLoU7FVNr4paZW+XVoVOUd/8lqC2BaFUbEAAn1Vqw==",
+  "dgSpecHash": "Ld/KGMmTiIIMmpg3hgx+iftHEeBCu+L4G2jCDBbgQncy3LGr8B/VZs9DxBCB80wm8kbyqA1qaqkc6ntSAhkewQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\source\\repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.IOC\\Clean.Arc.Infra.IOC.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Source\\Repos\\VideoTutorialCleanArc\\Clean.Arc.Infra.IOC\\Clean.Arc.Infra.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
