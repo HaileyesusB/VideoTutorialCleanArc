@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Clean.Arc.Solution.UI.MVC"
   ],
-  "SelectedNode": "\\Video.Tutorial.Clean.Arc.Solution.sln",
+  "SelectedNode": "\\Clean.Arc.Solution.UI.MVC\\Clean.Arc.Solution.UI.MVC.csproj",
   "PreviewInSolutionExplorer": false
 }

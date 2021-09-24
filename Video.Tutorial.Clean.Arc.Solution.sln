@@ -17,11 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Arc.Solution.UI.MVC",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Arc.Domain", "Clean.Arc.Domain\Clean.Arc.Domain.csproj", "{B9989F7C-741F-4C76-BBCA-A0F30D747D35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clean.Arc.Infra.Data", "Clean.Arc.Infra.Data\Clean.Arc.Infra.Data.csproj", "{EA6A19A3-71D6-4905-94A4-D74B511FD57A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Arc.Infra.Data", "Clean.Arc.Infra.Data\Clean.Arc.Infra.Data.csproj", "{EA6A19A3-71D6-4905-94A4-D74B511FD57A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clean.Arc.Application", "Clean.Arc.Application\Clean.Arc.Application.csproj", "{0376909D-49C1-46C9-98BC-B0353830D425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Arc.Application", "Clean.Arc.Application\Clean.Arc.Application.csproj", "{0376909D-49C1-46C9-98BC-B0353830D425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clean.Arc.Infra.IOC", "Clean.Arc.Infra.IOC\Clean.Arc.Infra.IOC.csproj", "{45400D71-C265-4B50-9064-FA61C130C7B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Arc.Infra.IOC", "Clean.Arc.Infra.IOC\Clean.Arc.Infra.IOC.csproj", "{45400D71-C265-4B50-9064-FA61C130C7B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
